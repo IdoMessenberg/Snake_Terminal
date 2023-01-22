@@ -11,7 +11,7 @@ namespace Snake_Terminal.src
         struct Fruit_Struct
         {
             public int x, y;
-            public int value;
+            public float value;
             public bool eaten;
         }
     }
