@@ -8,5 +8,11 @@ namespace Snake_Terminal.src
 {
     internal class Fruit
     {
+        struct Fruit_Struct
+        {
+            public int x, y;
+            public int value;
+            public bool eaten;
+        }
     }
 }

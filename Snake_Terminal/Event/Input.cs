@@ -1,5 +1,6 @@
 ﻿namespace Snake_Terminal.Event{
-    public static class Input{
+    public static class ControllerInput
+    {
         #region//--[Variables]------------
 
         private static ConsoleKeyInfo _KeyInputInfo;
@@ -14,19 +15,19 @@
                     return _Diraction;
 
                 //>_[UP]--------------
-                case ConsoleKey _Key when (_Key == ConsoleKey.UpArrow || _Key == ConsoleKey.W):
+                case ConsoleKey _Key when ((_Key == ConsoleKey.UpArrow || _Key == ConsoleKey.W) && _Diraction != 'd'):
                     return _Diraction = 'u';
 
                 //>_[DOWN]------------
-                case ConsoleKey _Key when (_Key == ConsoleKey.DownArrow || _Key == ConsoleKey.S):
+                case ConsoleKey _Key when ((_Key == ConsoleKey.DownArrow || _Key == ConsoleKey.S) && _Diraction != 'u'):
                     return _Diraction = 'd';
 
                 //>_[LEFT]------------
-                case ConsoleKey _Key when (_Key == ConsoleKey.LeftArrow || _Key == ConsoleKey.A):
+                case ConsoleKey _Key when ((_Key == ConsoleKey.LeftArrow || _Key == ConsoleKey.A) && _Diraction != 'r'):
                     return _Diraction = 'l';
 
                 //>_[DOWN]------------
-                case ConsoleKey _Key when (_Key == ConsoleKey.RightArrow || _Key == ConsoleKey.D):
+                case ConsoleKey _Key when ((_Key == ConsoleKey.RightArrow || _Key == ConsoleKey.D) && _Diraction != 'l'):
                     return _Diraction = 'r';
             }
         }
