@@ -1,0 +1,19 @@
+E:\Projects\C#\Console_App\Battleships_V1.06\Battleships_V1.06\bin\Debug\Battleships_V1.06.exe.config
+E:\Projects\C#\Console_App\Battleships_V1.06\Battleships_V1.06\bin\Debug\Battleships_V1.06.exe
+E:\Projects\C#\Console_App\Battleships_V1.06\Battleships_V1.06\bin\Debug\Battleships_V1.06.pdb
+E:\Projects\C#\Console_App\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.csproj.AssemblyReference.cache
+E:\Projects\C#\Console_App\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.csproj.SuggestedBindingRedirects.cache
+E:\Projects\C#\Console_App\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1._06.Properties.Resources.resources
+E:\Projects\C#\Console_App\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.csproj.GenerateResource.cache
+E:\Projects\C#\Console_App\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Console_App\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.exe
+E:\Projects\C#\Console_App\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.pdb
+D:\מדעי המחשב\צוללות\Battleships_V1.06\Battleships_V1.06\bin\Debug\Battleships_V1.06.exe.config
+D:\מדעי המחשב\צוללות\Battleships_V1.06\Battleships_V1.06\bin\Debug\Battleships_V1.06.exe
+D:\מדעי המחשב\צוללות\Battleships_V1.06\Battleships_V1.06\bin\Debug\Battleships_V1.06.pdb
+D:\מדעי המחשב\צוללות\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.csproj.AssemblyReference.cache
+D:\מדעי המחשב\צוללות\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1._06.Properties.Resources.resources
+D:\מדעי המחשב\צוללות\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.csproj.GenerateResource.cache
+D:\מדעי המחשב\צוללות\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.csproj.CoreCompileInputs.cache
+D:\מדעי המחשב\צוללות\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.exe
+D:\מדעי המחשב\צוללות\Battleships_V1.06\Battleships_V1.06\obj\Debug\Battleships_V1.06.pdb
